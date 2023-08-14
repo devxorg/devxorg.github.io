@@ -1,7 +1,7 @@
 # [devx.js.org](https://devx.js.org)
 # JS Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
-## A clean, beautiful and responsive portfolio template for Developers!
+## A clean & responsive portfolio template for Developers!
 
 
 <p align="center">
@@ -31,8 +31,8 @@ Created something of the portfolio & want to share it? Open [pull request](https
  Twitter Timeline\
  GitHub Profile
 
-**[Contact](https://bf.pages.dev/)**
+**Contact: [Click Here](https://bf.pages.dev/)**.
 
-**Example: [Click here](https://developerfolio.js.org/)**.
+**Example: [Click Here](https://developerfolio.js.org/)**.
 ---
 © 2023 devx.js.org
