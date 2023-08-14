@@ -18,13 +18,13 @@ If you'd like to **contribute** and make this much better for other users, have 
 Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
 
 ## Portfolio Sections
- Summary and About me\
+ Summary & About me\
  Skills\
  Education\
  Work Experience\
  Open Source Projects Connected with GitHub\
  Big Projects\
- Achievements And Certifications\
+ Achievements & Certifications\
  Blogs\
  Talks\
  Podcast\
@@ -32,6 +32,8 @@ Created something awesome for your fork of the portfolio and want to share it? F
  Twitter Timeline\
  GitHub Profile
 
-Example, **[click here](https://developerfolio.js.org/)**.
+**[Contact](https://bf.pages.dev/)**
+
+**Example: [Click here](https://developerfolio.js.org/)**.
 ---
 © 2023 devx.js.org
